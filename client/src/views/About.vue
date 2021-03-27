@@ -54,13 +54,13 @@
     </div>
     <div class="about-the-api">
       <h3>Book your reservation online through the website and confirm it onsite without installing any application with OsteriaX</h3>
-      <img width="200" src="@/assets/img/mine/telesign.png">
-      <img width="200" src="@/assets/img/mine/youtube.jpeg">
+      <img width="300" src="@/assets/img/mine/telesign.png">
+      <img width="300" src="@/assets/img/mine/youtube.jpeg">
       <img height="100" src="@/assets/img/mine/google-maps.png">
-      <img width="200" src="@/assets/img/mine/vueimage.png">
-      <img width="200" src="@/assets/img/mine/node.png">
-      <img width="200" src="@/assets/img/mine/express.png">
-      <img width="200" src="@/assets/img/mine/mongodb.png">
+      <img width="300" src="@/assets/img/mine/vueimage.png">
+      <img width="300" src="@/assets/img/mine/node.png">
+      <img width="300" src="@/assets/img/mine/express.png">
+      <img width="300" src="@/assets/img/mine/mongodb.png">
     </div>
     <br><br>
   </div>

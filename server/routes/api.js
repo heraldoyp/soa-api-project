@@ -30,7 +30,7 @@ router.post('/reservation', async(req, res) => {
   });
 
   // Turn On to send a message
-  // await telesign(message, phoneNumber);
+  await telesign(message, phoneNumber);
 
   res.status(201).send("<script>alert('your reservation has been made')</script>");
 })
@@ -56,7 +56,7 @@ router.post('/contact', async(req, res) => {
   });
 
   // Turn On to send a message
-  // await telesign(message, phoneNumber);
+  await telesign(message, phoneNumber);
   res.status(201).send();
 })
  
